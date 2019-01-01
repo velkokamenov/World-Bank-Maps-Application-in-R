@@ -1,0 +1,13 @@
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+
+h1 {
+  font-family: 'Lucida Console', cursive;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #1E90FF;
+}
+
+body {
+  /* background-image: url("light-blue.jpg");*/
+  /* background-color: #00FF7F; */
+}
